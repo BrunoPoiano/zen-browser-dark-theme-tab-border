@@ -2,4 +2,4 @@
 
 Adds a soft border to the collapsed tabs.
 
-![Active tab](images/exemple.png)
+![Active tab](images/better-border-preview.png)
